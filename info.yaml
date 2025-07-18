@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "8-bit Custom Processor"
-  author:       "Sandeep Panigrahi"
+  author:       "CUTM"
   discord:         # Optional
   description:  "Processor with PC, ALU, register file and control unit"
   language:     "Verilog"
